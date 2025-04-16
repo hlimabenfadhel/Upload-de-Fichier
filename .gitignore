@@ -1,0 +1,38 @@
+Sqlite # Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual Environments
+env/
+venv/
+backend/env/
+
+# Django
+backend/db.sqlite3
+backend/.env
+
+# Uploaded media (adjust path if needed)
+backend/upload/
+
+# Node.js
+frontend/node_modules/
+frontend/build/
+frontend/npm-debug.log
+frontend/.env
+
+# Log files
+*.log
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Docker artifacts
+docker.jpg
+*.tar
