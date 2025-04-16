@@ -18,7 +18,7 @@ Ce projet permet d’uploader de gros fichiers de manière efficace en les déco
 
 ```bash
 git clone https://github.com/hlimabenfadhel/Upload-de-Fichier.git
-cd Upload-de-Fichier-en-Chunks
+cd Upload-de-Fichier
 ```
 
 ### 2. Construire et lancer l'application avec Docker Compose
