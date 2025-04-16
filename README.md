@@ -35,8 +35,8 @@ Frontend (React) : http://localhost:3000
 
 Backend (API Django) : http://localhost:8000
 
-##🖼️ Docker Desktop
+## 🖼️ Docker Desktop
 ![Docker Desktop](./docker.jpg)
 
-##🎬 Vidéo Démo
+## 🎬 Vidéo Démo
 [![Vidéo Démo](./demo.mp4)
