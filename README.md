@@ -17,7 +17,7 @@ Ce projet permet d’uploader de gros fichiers de manière efficace en les déco
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/hlimabenfadhel/Upload-de-Fichier-en-Chunks.git
+git clone https://github.com/hlimabenfadhel/Upload-de-Fichier.git
 cd Upload-de-Fichier-en-Chunks
 ```
 
@@ -35,3 +35,8 @@ Frontend (React) : http://localhost:3000
 
 Backend (API Django) : http://localhost:8000
 
+##🖼️ Docker Desktop
+![Docker Desktop](./docker.jpg)
+
+##🎬 Vidéo Démo
+[![Vidéo Démo](./demo.mp4)
