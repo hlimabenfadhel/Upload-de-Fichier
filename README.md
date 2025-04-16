@@ -39,8 +39,4 @@ Backend (API Django) : http://localhost:8000
 ![Docker Desktop](./docker.jpg)
 
 ## 🎬 Vidéo Démo
-<video width="320" height="240" controls>
-  <source src="./demo.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la vidéo.
-</video>
-
+Téléchargez et visionnez la vidéo démo : [demo.mp4](./demo.mp4)
